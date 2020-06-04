@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+/*    outline: 1px solid rgba(255, 255, 255, 0.3);*/
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Roboto Mono', sans-serif;
+    font-weight: 300;
+    background-color: #f03e3e;
+    color: white;
+}
+
+main {
+	display:grid;
+	height:90vh;
+	place-items:center;
+}
+
+h1 {
+    font-style: italic; 
+    font-weight: 300;
+    font-size: 2rem;
+    color: #9b1f1f;
+}
+
+.duration .time {
+    font-size: 10rem;
+    font-weight: 100;
+	letter-spacing: -0.05em;
+}
+
+.button {
+	display:grid;
+	place-items:center;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    color: #fff;
+    cursor: pointer;
+    transition: all .15s ease;
+}
+
+.button:hover {
+    border: 1px solid #9b1f1f;
+    color: #9b1f1f;
+}
