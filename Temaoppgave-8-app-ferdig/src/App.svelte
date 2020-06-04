@@ -13,7 +13,7 @@
 
 
 <main>
-
+	<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 	<header>
 		<button on:click={givemeadrink}>Give me a tasteful drink!</button>
 	</header>
@@ -59,9 +59,13 @@
 	p {
 		color: #FDB750;
 		margin-top: -15px;
+		font-family: Quicksand;
+
 	}
 	h3 {
 		color: #FD7F20;
+		font-family: Quicksand;
+		font-weight: semi-bold;
 	}
 	main {
 		padding: 10vw;
@@ -71,6 +75,7 @@
 		font-size: 4em;
 		font-weight: 100;
 		text-align: center;
+		font-family: Quicksand;
 	}
 	#overskrift1 {
 		text-transform: uppercase;
@@ -79,6 +84,7 @@
 		color: #eee;
 		background-color: #FD7F20;
 		border: none;
+		font-family: Quicksand;
 	}
 	button:hover {
 		color: #ffffff !important;

@@ -320,8 +320,8 @@ var app = (function () {
     			h1 = element("h1");
     			h1.textContent = "Press the button for a tasteful drink!";
     			attr_dev(h1, "id", "overskrift1");
-    			attr_dev(h1, "class", "svelte-198gyme");
-    			add_location(h1, file, 50, 2, 2301);
+    			attr_dev(h1, "class", "svelte-1ebqi0n");
+    			add_location(h1, file, 50, 2, 2421);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, h1, anchor);
@@ -697,59 +697,59 @@ var app = (function () {
     			h32 = element("h3");
     			h32.textContent = "Enjoy!";
     			attr_dev(h1, "id", "overskrift");
-    			attr_dev(h1, "class", "svelte-198gyme");
-    			add_location(h1, file, 21, 2, 357);
+    			attr_dev(h1, "class", "svelte-1ebqi0n");
+    			add_location(h1, file, 21, 2, 477);
     			if (img.src !== (img_src_value = /*drink*/ ctx[0].strDrinkThumb)) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "alt", img_alt_value = /*drink*/ ctx[0].strDrink);
-    			attr_dev(img, "class", "svelte-198gyme");
-    			add_location(img, file, 24, 3, 448);
-    			attr_dev(div0, "class", "img svelte-198gyme");
-    			add_location(div0, file, 23, 2, 427);
-    			attr_dev(h30, "class", "svelte-198gyme");
-    			add_location(h30, file, 27, 3, 538);
-    			attr_dev(p0, "class", "svelte-198gyme");
-    			add_location(p0, file, 28, 3, 573);
-    			attr_dev(p1, "class", "svelte-198gyme");
-    			add_location(p1, file, 29, 3, 615);
-    			attr_dev(p2, "class", "svelte-198gyme");
-    			add_location(p2, file, 30, 3, 717);
-    			attr_dev(p3, "class", "svelte-198gyme");
-    			add_location(p3, file, 31, 3, 819);
-    			attr_dev(p4, "class", "svelte-198gyme");
-    			add_location(p4, file, 32, 3, 921);
-    			attr_dev(p5, "class", "svelte-198gyme");
-    			add_location(p5, file, 33, 3, 1023);
-    			attr_dev(p6, "class", "svelte-198gyme");
-    			add_location(p6, file, 34, 3, 1125);
-    			attr_dev(p7, "class", "svelte-198gyme");
-    			add_location(p7, file, 35, 3, 1227);
-    			attr_dev(p8, "class", "svelte-198gyme");
-    			add_location(p8, file, 36, 3, 1329);
-    			attr_dev(p9, "class", "svelte-198gyme");
-    			add_location(p9, file, 37, 3, 1431);
-    			attr_dev(p10, "class", "svelte-198gyme");
-    			add_location(p10, file, 38, 3, 1533);
-    			attr_dev(p11, "class", "svelte-198gyme");
-    			add_location(p11, file, 39, 3, 1639);
-    			attr_dev(p12, "class", "svelte-198gyme");
-    			add_location(p12, file, 40, 3, 1745);
-    			attr_dev(p13, "class", "svelte-198gyme");
-    			add_location(p13, file, 41, 3, 1851);
-    			attr_dev(p14, "class", "svelte-198gyme");
-    			add_location(p14, file, 42, 3, 1957);
-    			attr_dev(p15, "class", "svelte-198gyme");
-    			add_location(p15, file, 43, 3, 2063);
-    			attr_dev(h31, "class", "svelte-198gyme");
-    			add_location(h31, file, 44, 3, 2169);
+    			attr_dev(img, "class", "svelte-1ebqi0n");
+    			add_location(img, file, 24, 3, 568);
+    			attr_dev(div0, "class", "img svelte-1ebqi0n");
+    			add_location(div0, file, 23, 2, 547);
+    			attr_dev(h30, "class", "svelte-1ebqi0n");
+    			add_location(h30, file, 27, 3, 658);
+    			attr_dev(p0, "class", "svelte-1ebqi0n");
+    			add_location(p0, file, 28, 3, 693);
+    			attr_dev(p1, "class", "svelte-1ebqi0n");
+    			add_location(p1, file, 29, 3, 735);
+    			attr_dev(p2, "class", "svelte-1ebqi0n");
+    			add_location(p2, file, 30, 3, 837);
+    			attr_dev(p3, "class", "svelte-1ebqi0n");
+    			add_location(p3, file, 31, 3, 939);
+    			attr_dev(p4, "class", "svelte-1ebqi0n");
+    			add_location(p4, file, 32, 3, 1041);
+    			attr_dev(p5, "class", "svelte-1ebqi0n");
+    			add_location(p5, file, 33, 3, 1143);
+    			attr_dev(p6, "class", "svelte-1ebqi0n");
+    			add_location(p6, file, 34, 3, 1245);
+    			attr_dev(p7, "class", "svelte-1ebqi0n");
+    			add_location(p7, file, 35, 3, 1347);
+    			attr_dev(p8, "class", "svelte-1ebqi0n");
+    			add_location(p8, file, 36, 3, 1449);
+    			attr_dev(p9, "class", "svelte-1ebqi0n");
+    			add_location(p9, file, 37, 3, 1551);
+    			attr_dev(p10, "class", "svelte-1ebqi0n");
+    			add_location(p10, file, 38, 3, 1653);
+    			attr_dev(p11, "class", "svelte-1ebqi0n");
+    			add_location(p11, file, 39, 3, 1759);
+    			attr_dev(p12, "class", "svelte-1ebqi0n");
+    			add_location(p12, file, 40, 3, 1865);
+    			attr_dev(p13, "class", "svelte-1ebqi0n");
+    			add_location(p13, file, 41, 3, 1971);
+    			attr_dev(p14, "class", "svelte-1ebqi0n");
+    			add_location(p14, file, 42, 3, 2077);
+    			attr_dev(p15, "class", "svelte-1ebqi0n");
+    			add_location(p15, file, 43, 3, 2183);
+    			attr_dev(h31, "class", "svelte-1ebqi0n");
+    			add_location(h31, file, 44, 3, 2289);
     			attr_dev(p16, "id", "directions");
-    			attr_dev(p16, "class", "svelte-198gyme");
-    			add_location(p16, file, 45, 3, 2206);
-    			attr_dev(h32, "class", "svelte-198gyme");
-    			add_location(h32, file, 46, 3, 2256);
-    			attr_dev(div1, "class", "text svelte-198gyme");
-    			add_location(div1, file, 26, 2, 516);
-    			attr_dev(div2, "class", "container svelte-198gyme");
-    			add_location(div2, file, 22, 2, 401);
+    			attr_dev(p16, "class", "svelte-1ebqi0n");
+    			add_location(p16, file, 45, 3, 2326);
+    			attr_dev(h32, "class", "svelte-1ebqi0n");
+    			add_location(h32, file, 46, 3, 2376);
+    			attr_dev(div1, "class", "text svelte-1ebqi0n");
+    			add_location(div1, file, 26, 2, 636);
+    			attr_dev(div2, "class", "container svelte-1ebqi0n");
+    			add_location(div2, file, 22, 2, 521);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, h1, anchor);
@@ -1003,9 +1003,11 @@ var app = (function () {
 
     function create_fragment(ctx) {
     	let main;
+    	let link;
+    	let t0;
     	let header;
     	let button;
-    	let t1;
+    	let t2;
     	let dispose;
 
     	function select_block_type(ctx, dirty) {
@@ -1019,16 +1021,21 @@ var app = (function () {
     	const block = {
     		c: function create() {
     			main = element("main");
+    			link = element("link");
+    			t0 = space();
     			header = element("header");
     			button = element("button");
     			button.textContent = "Give me a tasteful drink!";
-    			t1 = space();
+    			t2 = space();
     			if_block.c();
-    			attr_dev(button, "class", "svelte-198gyme");
-    			add_location(button, file, 17, 2, 263);
-    			attr_dev(header, "class", "svelte-198gyme");
-    			add_location(header, file, 16, 1, 252);
-    			attr_dev(main, "class", "svelte-198gyme");
+    			attr_dev(link, "href", "https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
+    			attr_dev(link, "rel", "stylesheet");
+    			add_location(link, file, 15, 1, 251);
+    			attr_dev(button, "class", "svelte-1ebqi0n");
+    			add_location(button, file, 17, 2, 383);
+    			attr_dev(header, "class", "svelte-1ebqi0n");
+    			add_location(header, file, 16, 1, 372);
+    			attr_dev(main, "class", "svelte-1ebqi0n");
     			add_location(main, file, 14, 0, 243);
     		},
     		l: function claim(nodes) {
@@ -1036,9 +1043,11 @@ var app = (function () {
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, main, anchor);
+    			append_dev(main, link);
+    			append_dev(main, t0);
     			append_dev(main, header);
     			append_dev(header, button);
-    			append_dev(main, t1);
+    			append_dev(main, t2);
     			if_block.m(main, null);
     			dispose = listen_dev(button, "click", /*givemeadrink*/ ctx[1], false, false, false);
     		},
